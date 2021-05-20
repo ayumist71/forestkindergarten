@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  
+  .top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image: url(https://static.wixstatic.com/media/b99f87_bf66bfd9a1d740caab46929e6e08d431~mv2.png/v1/fill/w_1480,h_1111,al_c,q_90,usm_0.66_1.00_0.01/b99f87_bf66bfd9a1d740caab46929e6e08d431~mv2.webp);
+    background-size: cover;
+    color: white;
+    text-align: center;
+  }
+  
+  .top-wrapper h1 {
+    opacity: 0.9;
+    font-size: 60px;
+    letter-spacing: 3px;
+  }
+  
+  .top-wrapper p {
+    opacity: 0.9;
+  }
+  
+  .btn-wrapper {
+    margin: 20px 0;
+  }
+  
+  .btn-wrapper p {
+    margin: 10px 0;
+  }
+  
+  .whatisforestkindergarten {
+    background-color: #239b76;
+  }
+  
+  .facebook {
+    background-color: #3b5998;
+    margin-right: 10px;
+  }
+  
+  .twitter {
+    background-color: #55acee;
+  }
+  
+  .btn {
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+  
+  .fa {
+    margin-right: 5px;
+  }
+  
+  /* <header>のCSSを指定してください */
+  header {
+    height: 65px;
+    background-color: rgba(34, 52, 41, 0.9);
+  }
+  
+  
+  /* logoクラスのCSSを指定してください */
+  .logo {
+    width: 124px;
+    margin-top: 20px;
+  }
+
+
+  .htohoku{
+    background-color: indianred;
+
+  }
+
+  .kanto{
+    background-color:lightgreen;
+
+  }
+
+  
